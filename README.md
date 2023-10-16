@@ -3,10 +3,14 @@ Code from my industrial mathematics module during 4th year of university. Some v
 
 For detailed information on the assignments and the motivation behind the code, look no further than the final submissions themselves, included in the repo as pdf files.
 
-Metal Quenching:
-Code: Metal_Quenching-checkpoint.ipynb
-Project Submission: Metal_Quenching.pdf
+## Metal Quenching:
+### Code: 
+Metal Quenching-checkpoint.ipynb
+### Project Submission: 
+Metal_Quenching (2).pdf
 
-Opinions Model:
-Code: MAGA-checkpoint.ipynb
-Project Submission: Industrial_Maths_Project_2(2).pdf
+## Opinions Model:
+### Code: 
+MAGA-checkpoint.ipynb
+### Project Submission: 
+Industrial_project_2 (2).pdf
